@@ -18,12 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: İnci M. Baytaş 
 email: inci.baytas@bogazici.edu.tr
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+I received my Ph.D. degree from the Department of Computer Science and Engineering at Michigan State University in 2019 under the supervision of Anil K. Jain and Jiayu Zhou. I was a research assistant in the Pattern Recognition and Image Processing Lab before joining the Department of Computer Engineering at Boğaziçi University in 2019. My research interests include machine learning, deep learning, adversarial machine learning, multi-task learning, temporal modeling, graph neural networks, and their applications to biomedical informatics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
