@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://cmpe.bogazici.edu.tr/'>Department of Computer Engineering at Boğaziçi University</a>.
 
 profile:
   align: right
